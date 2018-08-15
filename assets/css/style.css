@@ -1,0 +1,35 @@
+h1 {color: #2A67AD;}
+
+.description {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.project-name {
+    
+    font-family: 'Open Sans', sans-serif; color: #2A67AD; 
+}
+
+/* margin: following is what I did and did not work; */
+
+.id {
+    font-family: 'Open Sans', sans-serif; color: #2A67AD; 
+    
+}
+
+/* margin: check font sizing in other computer screens; */
+
+html {
+    font-size: 16px
+}
+
+p {
+    font-size: 1rem;
+}
+
+/* margin: do i need to use a context selector to list projects?; */
+
+ul li {}
+
+/* margin: set correct margins for all elements using The Box Model; */
+
+/* margin: figure out how to add bottom; */
